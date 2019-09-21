@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vicahgeix.merel.software/sitemap.xml
